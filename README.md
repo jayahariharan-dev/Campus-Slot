@@ -1,4 +1,4 @@
-# CAMPUSSLOT 🎓
+# CAMPUS SLOT 🎓
 
 ### College Smartboard Booking & Conflict Detection System
 
